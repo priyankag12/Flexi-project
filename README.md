@@ -7,4 +7,4 @@ System Requirement Specification Document
 System Requirement Specification for Online Examination Management System
 
 ## Purpose:
-An online examination management system's main goal is to give instructors and students a through,effective,and safe platform to perform assessments, with the added advantages of convenience, data analysis, and automation.
+An online exam management system's primary objective is to adequately handle and supervise examinations online while offering convenience, security, effortless grading, instantaneous outcomes, and data insights for both educators and learners.
