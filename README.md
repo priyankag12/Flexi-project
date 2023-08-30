@@ -24,11 +24,36 @@ Reading Suggestions:
 For system configuration, test development, and result analysis, educators and administrators should consult the user manuals. The technical documentation will be useful for troubleshooting and integration by technical support teams. Students get access to instructions for taking tests and comprehending comments on their performance.
 
 ## Functional Requirements:
-### User Authentication and Authorization :-
-Secure authentication mechanisms are used for user registration and login. Various user roles (students, teachers, administrators) with various permissions and access levels.
 ### Exam Creation and Management :-
 The capacity for teachers to design and arrange tests using a variety of question kinds. There is an option to specify the probable dates, exam length, and timer. Question alternatives and order are randomly generated to avoid cheating.
 ### Question Bank Management :-
 A place where teachers may save and arrange questions for later use. The ability to group questions by kind, complexity, and subject.
+### Assessment and Grading:
+Auto-Grading: Support auto-grading of multiple-choice and objective questions.
+Manual Grading: Allow teachers to manually grade subjective questions.
+Result Calculation: Calculate and display exam scores and results to students.
+Feedback: Provide feedback and explanations for correct/incorrect answers.
+### Security Features:-
+Session Management: Implement secure session management to prevent unauthorized access.
+Data Encryption: Encrypt sensitive user data and exam content.
+Authentication and Authorization: Ensure proper authentication and authorization mechanisms.
+Anti-Cheating Measures: Implement anti-cheating measures, such as lockdown browsers, to deter cheating during exams.
+
+These functional requirements form the basis for designing and developing the Online Examination Management System.
 
 ## NonFunctional Requirements:
+### Reliability and Availability:-
+Uptime: Specify the desired level of system uptime (e.g., 99.9% availability) and any planned maintenance windows.
+Fault Tolerance: Describe how the system should handle and recover from hardware or software failures to minimize disruptions.
+### Load and Stress Testing:-
+Describe the procedures and criteria for conducting load and stress testing to ensure the system can handle peak usage without degrading performance.
+### Scalability and Capacity Planning:-
+Detail plans for scaling the system as user and examination loads increase over time.
+### Usability and User Experience:-
+User Interface: Define user interface guidelines for consistency and ease of use.
+Accessibility: Ensure the system complies with accessibility standards, making it usable by individuals with disabilities.
+### Data Management:-
+Data Backup and Recovery: Specify data backup procedures and recovery strategies in case of data loss or corruption.
+Data Retention: Define how long user and exam data will be retained and when it will be purged.
+
+These non-functional requirements will help ensure that the Online Examination Management System meets not only its functional goals but also the quality, performance, security, and usability expectations of stakeholders.
