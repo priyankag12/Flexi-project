@@ -37,15 +37,15 @@ The online examination administration system is a stand-alone programme that off
 The web-based environment in which the online examination administration system runs makes it available through current web browsers like Chrome, Firefox, Safari, and Edge. It works with many different operating systems, including Windows, macOS, and Linux. The system needs a strong internet connection to give exams, grade them, and analyse the results. Users from various geographic areas can utilise it, giving flexibility for remote learning and evaluation.
 
 ## Design and Implementation Constraints:
-1. **Scalability** During peak periods, the system must manage potentially many concurrent users, necessitating a strong server architecture and load balancing algorithms.
-2. **security** To stop unauthorised access, data breaches, and exam cheating, strict security measures are necessary.
+1. Scalability During peak periods, the system must manage potentially many concurrent users, necessitating a strong server architecture and load balancing algorithms.
+2. security To stop unauthorised access, data breaches, and exam cheating, strict security measures are necessary.
 3. **Compatibility:** To provide a consistent user experience, the system must work flawlessly on a variety of devices, browsers, and operating systems.
 4. Accessibility: To guarantee that the platform is useable by people with impairments, accessibility standards must be followed.
 5. **Data Privacy:** Adherence to data protection laws is required to preserve user data and uphold privacy throughout system operations.
 
 ## User Classes and Characteristics:
-1. **Students**: Users taking tests with varied levels of technical expertise and topic knowledge, either on campus or remotely.
-2. **Educators:** Users who design, administer, and grade tests and are looking for a user-friendly interface.
+1. Students Users taking tests with varied levels of technical expertise and topic knowledge, either on campus or remotely.
+2. Educators Users who design, administer, and grade tests and are looking for a user-friendly interface.
 3. **Administrators:** Users in charge of monitoring the system, controlling user accounts, programmes, and system settings; they need extensive control and reporting tools.
 4. Users offering help, troubleshooting, and maintaining smooth system performance; this requires a high level of technical knowledge.
 5. **System Developers:** Users who are in charge of system upkeep, updates, and modification and who need high-level technical know-how to make system improvements.
