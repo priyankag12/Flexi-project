@@ -23,6 +23,19 @@ The online examination management system documentation is aimed at educators, ma
 Reading Suggestions:
 For system configuration, test development, and result analysis, educators and administrators should consult the user manuals. The technical documentation will be useful for troubleshooting and integration by technical support teams. Students get access to instructions for taking tests and comprehending comments on their performance.
 
+## Product Perspective:
+The online examination administration system is a stand-alone programme that offers instructors and students a complete platform to administer tests online. If needed, it smoothly interacts with Learning Management Systems (LMS) and communicates with user devices via web browsers. In a safe and user-friendly setting, the system includes test development, distribution, grading, and result analysis. Administrators have the option to control user, course, and test settings. The system can be easily customised, updated, and scaled to fit institutions of all sizes because to its modular architecture.
+
+## Product Features:
+Creating and Customising Exams: Exams with various question formats, time constraints, and difficulty levels may be easily created and customised. Secure Exam Environment: Make sure the testing environment is secure with anti-cheating safeguards, prohibiting unauthorised activity. Instantaneously evaluate multiple-choice questions and offer manual grading choices for arbitrary answers. Access real-time information on student performance, the efficacy of questions, and overall test trends. User-Friendly Interface: Give students, teachers, and administrators an easy-to-use interface to improve the test experience overall.
+
+## User Classes and Characteristics:
+1. **Students**: Users taking tests with varied levels of technical expertise and topic knowledge, either on campus or remotely.
+2. **Educators:** Users who design, administer, and grade tests and are looking for a user-friendly interface.
+3. **Administrators:** Users in charge of monitoring the system, controlling user accounts, programmes, and system settings; they need extensive control and reporting tools.
+4. Users offering help, troubleshooting, and maintaining smooth system performance; this requires a high level of technical knowledge.
+5. **System Developers:** Users who are in charge of system upkeep, updates, and modification and who need high-level technical know-how to make system improvements.
+
 ## Functional Requirements:
 ### Exam Creation and Management :-
 The capacity for teachers to design and arrange tests using a variety of question kinds. There is an option to specify the probable dates, exam length, and timer. Question alternatives and order are randomly generated to avoid cheating.
