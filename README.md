@@ -42,7 +42,7 @@ The system can be easily customised, updated, and scaled to fit institutions of 
 2. Secure Exam Environment: Make sure the testing environment is secure with anti-cheating safeguards, prohibiting unauthorised activity.
 3. Instantaneously evaluate multiple-choice questions and offer manual grading choices for arbitrary answers.
 4. Access real-time information on student performance, the efficacy of questions, and overall test trends.
-5. **User-Friendly Interface:** Give students, teachers, and administrators an easy-to-use interface to improve the test experience overall.
+5. User-Friendly Interface: Give students, teachers, and administrators an easy-to-use interface to improve the test experience overall.
 
 ## Operating Environment:
 The web-based environment in which the online examination administration system runs makes it available through current web browsers like Chrome, Firefox, Safari, and Edge.
@@ -53,16 +53,16 @@ Users from various geographic areas can utilise it, giving flexibility for remot
 ## Design and Implementation Constraints:
 1. Scalability During peak periods, the system must manage potentially many concurrent users, necessitating a strong server architecture and load balancing algorithms.
 2. security To stop unauthorised access, data breaches, and exam cheating, strict security measures are necessary.
-3. **Compatibility:** To provide a consistent user experience, the system must work flawlessly on a variety of devices, browsers, and operating systems.
+3. Compatibility: To provide a consistent user experience, the system must work flawlessly on a variety of devices, browsers, and operating systems.
 4. Accessibility: To guarantee that the platform is useable by people with impairments, accessibility standards must be followed.
-5. **Data Privacy:** Adherence to data protection laws is required to preserve user data and uphold privacy throughout system operations.
+5. Data Privacy: Adherence to data protection laws is required to preserve user data and uphold privacy throughout system operations.
 
 ## User Classes and Characteristics:
 1. Students Users taking tests with varied levels of technical expertise and topic knowledge, either on campus or remotely.
 2. Educators Users who design, administer, and grade tests and are looking for a user-friendly interface.
-3. **Administrators:** Users in charge of monitoring the system, controlling user accounts, programmes, and system settings; they need extensive control and reporting tools.
+3. Administrators: Users in charge of monitoring the system, controlling user accounts, programmes, and system settings; they need extensive control and reporting tools.
 4. Users offering help, troubleshooting, and maintaining smooth system performance; this requires a high level of technical knowledge.
-5. **System Developers:** Users who are in charge of system upkeep, updates, and modification and who need high-level technical know-how to make system improvements.
+5. System Developers: Users who are in charge of system upkeep, updates, and modification and who need high-level technical know-how to make system improvements.
 
 ## User Documentation:
 Comprehensive manuals for students, teachers, and administrators are included in the user documentation for the online examination administration system. 
@@ -71,11 +71,11 @@ The documentation seeks to provide easy use of the system's capabilities and nav
 
 ## Assumptions and Dependencies:
 The following are some presumptions and dependencies for the online exam management system:
-1. **Internet Connectivity:** In order to take tests and use system functions, the system expects users have reliable internet connectivity.
+1. Internet Connectivity: In order to take tests and use system functions, the system expects users have reliable internet connectivity.
 2. For the best system engagement, users are presumed to have devices that are compatible with current web browsers.
 3. User proficiency: In order to use the system efficiently, users must possess a fundamental understanding of computers.
-4. **Server Infrastructure:** Reliable server infrastructure and upkeep are essential for the system's performance.
-5. **Data Security:** Dependencies incorporate strong security controls to safeguard user information and uphold the reliability of examinations and results.
+4. Server Infrastructure: Reliable server infrastructure and upkeep are essential for the system's performance.
+5. Data Security: Dependencies incorporate strong security controls to safeguard user information and uphold the reliability of examinations and results.
 
 ## Functional Requirements:
 ### Exam Creation and Management:-
