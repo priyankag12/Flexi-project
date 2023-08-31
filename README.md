@@ -27,7 +27,21 @@ For system configuration, test development, and result analysis, educators and a
 The online examination administration system is a stand-alone programme that offers instructors and students a complete platform to administer tests online. If needed, it smoothly interacts with Learning Management Systems (LMS) and communicates with user devices via web browsers. In a safe and user-friendly setting, the system includes test development, distribution, grading, and result analysis. Administrators have the option to control user, course, and test settings. The system can be easily customised, updated, and scaled to fit institutions of all sizes because to its modular architecture.
 
 ## Product Features:
-Creating and Customising Exams: Exams with various question formats, time constraints, and difficulty levels may be easily created and customised. Secure Exam Environment: Make sure the testing environment is secure with anti-cheating safeguards, prohibiting unauthorised activity. Instantaneously evaluate multiple-choice questions and offer manual grading choices for arbitrary answers. Access real-time information on student performance, the efficacy of questions, and overall test trends. User-Friendly Interface: Give students, teachers, and administrators an easy-to-use interface to improve the test experience overall.
+1. Creating and Customising Exams: Exams with various question formats, time constraints, and difficulty levels may be easily created and customised.
+2. Secure Exam Environment: Make sure the testing environment is secure with anti-cheating safeguards, prohibiting unauthorised activity.
+3. Instantaneously evaluate multiple-choice questions and offer manual grading choices for arbitrary answers.
+4. Access real-time information on student performance, the efficacy of questions, and overall test trends.
+5. **User-Friendly Interface:** Give students, teachers, and administrators an easy-to-use interface to improve the test experience overall.
+
+## Operating Environment:
+The web-based environment in which the online examination administration system runs makes it available through current web browsers like Chrome, Firefox, Safari, and Edge. It works with many different operating systems, including Windows, macOS, and Linux. The system needs a strong internet connection to give exams, grade them, and analyse the results. Users from various geographic areas can utilise it, giving flexibility for remote learning and evaluation.
+
+## Design and Implementation Constraints:
+1. **Scalability** During peak periods, the system must manage potentially many concurrent users, necessitating a strong server architecture and load balancing algorithms.
+2. **security** To stop unauthorised access, data breaches, and exam cheating, strict security measures are necessary.
+3. **Compatibility:** To provide a consistent user experience, the system must work flawlessly on a variety of devices, browsers, and operating systems.
+4. Accessibility: To guarantee that the platform is useable by people with impairments, accessibility standards must be followed.
+5. **Data Privacy:** Adherence to data protection laws is required to preserve user data and uphold privacy throughout system operations.
 
 ## User Classes and Characteristics:
 1. **Students**: Users taking tests with varied levels of technical expertise and topic knowledge, either on campus or remotely.
