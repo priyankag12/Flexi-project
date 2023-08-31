@@ -7,24 +7,35 @@ System Requirement Specification Document
 System Requirement Specification for Online Examination Management System
 
 ## Problem Statement:
-Processes for traditional paper-based exams are becoming less effective and have geographical limitations. Inadequate data analysis for performance improvement and manual grading mistakes are a few of the issues that arise when there is no online examination administration system. A complete online examination management system that provides safe, scalable, automated test administration, grading, and data-driven insights is needed to address these difficulties in order to satisfy the needs of contemporary education.
+Processes for traditional paper-based exams are becoming less effective and have geographical limitations. 
+Inadequate data analysis for performance improvement and manual grading mistakes are a few of the issues that arise when there is no online examination administration system.
+A complete online examination management system that provides safe, scalable, automated test administration, grading, and data-driven insights is needed to address these difficulties in order to satisfy the needs of contemporary education.
 
 ## Objective(Purpose):
 An online exam management system's primary objective is to adequately handle and supervise examinations online while offering convenience, security, effortless grading, instantaneous outcomes, and data insights for both educators and learners.
 
 ## Scope:
-An online test management system's scope includes digitizing the whole exam procedure.It entails managing question banks, securely administering tests, automatically grading exams, and analyzing test results. The technology streamlines the scheduling and administration of exams while meeting the demands of various educational institutions and online learning.
+An online test management system's scope includes digitizing the whole exam procedure.
+It entails managing question banks, securely administering tests, automatically grading exams, and analyzing test results. 
+The technology streamlines the scheduling and administration of exams while meeting the demands of various educational institutions and online learning.
 
 ## Document conventions:
-Examples of document conventions for an online examination management system are standardized formatting, distinct file and folder name standards, version control procedures, and the uniform use of headers, typefaces, and styles. These principles make it simple to navigate, collaborate on, and maintain technical documentation, user manuals, and system design documents.
+Examples of document conventions for an online examination management system are standardized formatting, distinct file and folder name standards, version control procedures, and the uniform use of headers, typefaces, and styles. 
+These principles make it simple to navigate, collaborate on, and maintain technical documentation, user manuals, and system design documents.
 
 ## Intended Audience and Reading Suggestions:
 The online examination management system documentation is aimed at educators, managers, technical support staff, and students who will be utilizing and maintaining the system.
 Reading Suggestions:
-For system configuration, test development, and result analysis, educators and administrators should consult the user manuals. The technical documentation will be useful for troubleshooting and integration by technical support teams. Students get access to instructions for taking tests and comprehending comments on their performance.
+1. For system configuration, test development, and result analysis, educators and administrators should consult the user manuals.
+2. The technical documentation will be useful for troubleshooting and integration by technical support teams. 
+3. Students get access to instructions for taking tests and comprehending comments on their performance.
 
 ## Product Perspective:
-The online examination administration system is a stand-alone programme that offers instructors and students a complete platform to administer tests online. If needed, it smoothly interacts with Learning Management Systems (LMS) and communicates with user devices via web browsers. In a safe and user-friendly setting, the system includes test development, distribution, grading, and result analysis. Administrators have the option to control user, course, and test settings. The system can be easily customised, updated, and scaled to fit institutions of all sizes because to its modular architecture.
+The online examination administration system is a stand-alone programme that offers instructors and students a complete platform to administer tests online. 
+If needed, it smoothly interacts with Learning Management Systems (LMS) and communicates with user devices via web browsers. 
+In a safe and user-friendly setting, the system includes test development, distribution, grading, and result analysis. 
+Administrators have the option to control user, course, and test settings. 
+The system can be easily customised, updated, and scaled to fit institutions of all sizes because to its modular architecture.
 
 ## Product Features:
 1. Creating and Customising Exams: Exams with various question formats, time constraints, and difficulty levels may be easily created and customised.
@@ -34,7 +45,10 @@ The online examination administration system is a stand-alone programme that off
 5. **User-Friendly Interface:** Give students, teachers, and administrators an easy-to-use interface to improve the test experience overall.
 
 ## Operating Environment:
-The web-based environment in which the online examination administration system runs makes it available through current web browsers like Chrome, Firefox, Safari, and Edge. It works with many different operating systems, including Windows, macOS, and Linux. The system needs a strong internet connection to give exams, grade them, and analyse the results. Users from various geographic areas can utilise it, giving flexibility for remote learning and evaluation.
+The web-based environment in which the online examination administration system runs makes it available through current web browsers like Chrome, Firefox, Safari, and Edge.
+It works with many different operating systems, including Windows, macOS, and Linux. 
+The system needs a strong internet connection to give exams, grade them, and analyse the results. 
+Users from various geographic areas can utilise it, giving flexibility for remote learning and evaluation.
 
 ## Design and Implementation Constraints:
 1. Scalability During peak periods, the system must manage potentially many concurrent users, necessitating a strong server architecture and load balancing algorithms.
@@ -50,12 +64,28 @@ The web-based environment in which the online examination administration system 
 4. Users offering help, troubleshooting, and maintaining smooth system performance; this requires a high level of technical knowledge.
 5. **System Developers:** Users who are in charge of system upkeep, updates, and modification and who need high-level technical know-how to make system improvements.
 
+## User Documentation:
+Comprehensive manuals for students, teachers, and administrators are included in the user documentation for the online examination administration system. 
+It offers detailed instructions for actions including test development, exam administration, result analysis, user administration, and technical troubleshooting. 
+The documentation seeks to provide easy use of the system's capabilities and navigation, improving user experience and promoting effective test administration and evaluation.
+
+## Assumptions and Dependencies:
+The following are some presumptions and dependencies for the online exam management system:
+1. **Internet Connectivity:** In order to take tests and use system functions, the system expects users have reliable internet connectivity.
+2. For the best system engagement, users are presumed to have devices that are compatible with current web browsers.
+3. User proficiency: In order to use the system efficiently, users must possess a fundamental understanding of computers.
+4. **Server Infrastructure:** Reliable server infrastructure and upkeep are essential for the system's performance.
+5. **Data Security:** Dependencies incorporate strong security controls to safeguard user information and uphold the reliability of examinations and results.
+
 ## Functional Requirements:
-### Exam Creation and Management :-
-The capacity for teachers to design and arrange tests using a variety of question kinds. There is an option to specify the probable dates, exam length, and timer. Question alternatives and order are randomly generated to avoid cheating.
-### Question Bank Management :-
-A place where teachers may save and arrange questions for later use. The ability to group questions by kind, complexity, and subject.
-### Assessment and Grading:
+### Exam Creation and Management:-
+The capacity for teachers to design and arrange tests using a variety of question kinds. 
+There is an option to specify the probable dates, exam length, and timer. 
+Question alternatives and order are randomly generated to avoid cheating.
+### Question Bank Management:-
+A place where teachers may save and arrange questions for later use. 
+The ability to group questions by kind, complexity, and subject.
+### Assessment and Grading:-
 Auto-Grading: Support auto-grading of multiple-choice and objective questions.
 Manual Grading: Allow teachers to manually grade subjective questions.
 Result Calculation: Calculate and display exam scores and results to students.
@@ -65,6 +95,15 @@ Session Management: Implement secure session management to prevent unauthorized 
 Data Encryption: Encrypt sensitive user data and exam content.
 Authentication and Authorization: Ensure proper authentication and authorization mechanisms.
 Anti-Cheating Measures: Implement anti-cheating measures, such as lockdown browsers, to deter cheating during exams.
+### Tracking user progress and their profile:-
+User profiles that include details like courses taken, previous tests, and performance history.
+Monitoring learning and evaluation patterns through progress monitoring for both teachers and students.
+### Messages and Reminders:-
+automated alerts for future tests, due dates, and modifications.
+Alerts for system upgrades and significant announcements through email or inside the app.
+### Creating reports and exporting:
+creation of thorough reports for administrators and instructors.
+option to export data and exam results in several formats for additional analysis.
 
 These functional requirements form the basis for designing and developing the Online Examination Management System.
 
