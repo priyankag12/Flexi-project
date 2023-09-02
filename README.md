@@ -151,3 +151,18 @@ Data Backup and Recovery: Specify data backup procedures and recovery strategies
 Data Retention: Define how long user and exam data will be retained and when it will be purged.
 
 These non-functional requirements will help ensure that the Online Examination Management System meets not only its functional goals but also the quality, performance, security, and usability expectations of stakeholders.
+
+# Appendices
+
+## 4.1 Glossary
+The glossary serves as a valuable resource for defining and clarifying key terminology and concepts used throughout the Online Examination Management System. It includes concise definitions, examples, and contextual explanations of domain-specific terms. The glossary is intended to enhance communication and ensure a common understanding among all stakeholders, including students, faculty members, and administrators.
+
+## 4.2 Analysis Models
+In this section, various analysis models are presented to help stakeholders gain a deeper understanding of the system's structure and functionality. These models include but are not limited to:
+- **Use Case Diagrams:** These diagrams illustrate the interactions between system users and the system itself, highlighting key use cases and scenarios.
+- **Class Diagrams:** Class diagrams provide an overview of the system's object-oriented structure, showcasing classes, relationships, and attributes.
+- **Sequence Diagrams:** Sequence diagrams depict the flow of interactions and messages exchanged between system components during specific processes, such as user registration or exam submission.
+- **Activity Diagrams:** Activity diagrams offer insights into the flow of activities and decision points within the system, helping to visualize processes like exam creation and result generation.
+
+## 4.3 To Be Determined
+This section acknowledges that certain aspects of the Online Examination Management System are still in the planning or decision-making phase. It serves as a placeholder for future updates and decisions related to the project. Topics that are "To Be Determined" may include system architecture choices, specific technologies, and additional features or enhancements. Regular updates will be made to this section as these aspects are finalized and documented.
