@@ -167,7 +167,10 @@ In this section, various analysis models are presented to help stakeholders gain
 
 ![Untitled design (1)](https://github.com/priyankag12/Flexi-project/assets/141745158/a24ae371-cd58-4dec-b713-b6ccad0ce3d9)
 
-- **Sequence Diagrams:** Sequence diagrams depict the flow of interactions and messages exchanged between system components during specific processes, such as user registration or exam submission.
+- **ER Diagram:** The Entity Relationship Diagram explains the relationship among the entities present in the database.
+
+  ![image](https://github.com/priyankag12/Flexi-project/assets/141745158/5bd027f7-222a-4057-a69f-65c5e4973d89)
+
 - **Activity Diagrams:** Activity diagrams offer insights into the flow of activities and decision points within the system, helping to visualize processes like exam creation and result generation.
 
 ## 4.3 To Be Determined
