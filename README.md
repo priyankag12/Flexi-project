@@ -171,7 +171,9 @@ In this section, various analysis models are presented to help stakeholders gain
 
   ![image](https://github.com/priyankag12/Flexi-project/assets/141745158/5bd027f7-222a-4057-a69f-65c5e4973d89)
 
-- **Activity Diagrams:** Activity diagrams offer insights into the flow of activities and decision points within the system, helping to visualize processes like exam creation and result generation.
+- **Deployment Diagrams:** A UML deployment diagram is a diagram that shows the configuration of run time processing nodes and the components that live on them.
+
+![image](https://github.com/priyankag12/Flexi-project/assets/141745158/9a36f6f8-0eb1-4305-94bf-ef3612d6f5ed)
 
 ## 4.3 To Be Determined
 This section acknowledges that certain aspects of the Online Examination Management System are still in the planning or decision-making phase. It serves as a placeholder for future updates and decisions related to the project. Topics that are "To Be Determined" may include system architecture choices, specific technologies, and additional features or enhancements. Regular updates will be made to this section as these aspects are finalized and documented.
