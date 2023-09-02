@@ -165,7 +165,7 @@ In this section, various analysis models are presented to help stakeholders gain
 
 - **Class Diagrams:** Class diagrams provide an overview of the system's object-oriented structure, showcasing classes, relationships, and attributes.
 
-  ![class dig](https://github.com/priyankag12/Flexi-project/assets/141745158/052dd420-8ebc-4516-8986-80941dbb9f26)
+
 
 - **Sequence Diagrams:** Sequence diagrams depict the flow of interactions and messages exchanged between system components during specific processes, such as user registration or exam submission.
 - **Activity Diagrams:** Activity diagrams offer insights into the flow of activities and decision points within the system, helping to visualize processes like exam creation and result generation.
