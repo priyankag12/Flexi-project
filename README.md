@@ -160,6 +160,7 @@ The glossary serves as a valuable resource for defining and clarifying key termi
 ## 4.2 Analysis Models
 In this section, various analysis models are presented to help stakeholders gain a deeper understanding of the system's structure and functionality. These models include but are not limited to:
 - **Use Case Diagrams:** These diagrams illustrate the interactions between system users and the system itself, highlighting key use cases and scenarios.
+  ![use case diagram](https://github.com/priyankag12/Flexi-project/assets/141745158/3606efdb-01bf-4884-aa77-0d1c13a51bff)
 - **Class Diagrams:** Class diagrams provide an overview of the system's object-oriented structure, showcasing classes, relationships, and attributes.
 - **Sequence Diagrams:** Sequence diagrams depict the flow of interactions and messages exchanged between system components during specific processes, such as user registration or exam submission.
 - **Activity Diagrams:** Activity diagrams offer insights into the flow of activities and decision points within the system, helping to visualize processes like exam creation and result generation.
