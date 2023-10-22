@@ -1,4 +1,4 @@
-# Flexi-project
+# Online Exam Managemnet System
 
 ## Document:
 System Requirement Specification Document
