@@ -1,4 +1,4 @@
-# Online Exam Managemnet System
+# Online Exam Management System
 
 ## Document:
 System Requirement Specification Document
